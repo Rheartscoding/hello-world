@@ -2,4 +2,4 @@
 Starting a new journey! :)
 
 Hello all! 
-Currently bored with human languages and decided to learn some software ones.
+Got bored with human languages and decided to learn some programming ones.
